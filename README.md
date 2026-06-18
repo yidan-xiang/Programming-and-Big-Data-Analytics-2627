@@ -5,4 +5,4 @@ This repository contains teaching materials, coding examples, and exercises for 
 
 ## Acknowledgement
 
-Some materials are adapted from Michael Mortenson's Programming and Big Data Analytics 2425 repository, licensed under the MIT License.
+Some materials are adapted from [Michael Mortenson's Programming and Big Data Analytics 2425 repository](https://github.com/MJMortensonWarwick/Programming_and_Big_Data_Analytics_2425), licensed under the MIT License.
